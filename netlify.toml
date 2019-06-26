@@ -1,23 +1,30 @@
-# Global settings applied to the whole site.  
-# 
-# “base” is the directory to change to before starting build. If you set base:
-#        that is where we will look for package.json/.nvmrc/etc, not repo root!
-# “command” is your build command.
-# “publish” is the directory to publish (relative to the root of your repo).
-
 [build]
-  base    = "."
-  command = "hugo"
-  publish = "site/public"
+publish = "public"
+command = "hugo --gc --minify"
 
-# Production context: All deploys to the main
-# repository branch will inherit these settings.
-[context.production]
-  command = "hugo production"
-  [context.production.environment]
+[context.production.environment]
+HUGO_VERSION = "0.55.6"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
 
-# Branch deploy context: All deploys that are not in
-# an active Deploy Preview will inherit these settings.
+[context.split1]
+command = "hugo --gc --minify --enableGitInfo"
+
+[context.split1.environment]
+HUGO_VERSION = "0.55.6"
+HUGO_ENV = "production"
+
+[context.deploy-preview]
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.55.6"
+
 [context.branch-deploy]
-  command = "hugo staging"
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.55.6"
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
