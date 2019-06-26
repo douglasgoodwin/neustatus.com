@@ -1,4 +1,7 @@
-baseURL = "www.neustatus.com"
+# The URL of your site.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+# baseURL = "https://www.neustatus.com/"
+baseurl = "https://cocky-kirch-513d3c.netlify.com/"
 languageCode = "en-us"
 title = "Neustadtus Consulting"
 themesDir = "themes"
