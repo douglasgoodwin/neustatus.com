@@ -1,6 +1,6 @@
 baseURL = "www.neustatus.com"
 languageCode = "en-us"
-title = "Neustatus"
+title = "Neustadtus Consulting"
 themesDir = "themes"
 theme = "hugo-hero-theme"
 
@@ -12,11 +12,8 @@ theme = "hugo-hero-theme"
     meta_og_title = "Principal and Founding Director"
     meta_og_type = "website"
     meta_og_url = "https://hugo-hero.netlify.com"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_og_image = "https://picsum.photos/640/360"
+    meta_og_description = "Enabling clients to achieve their aims through effective diagnosis and focused individual, team and organization-wide interventions."
 
 [[menu.main]]
 	name = "Services"
