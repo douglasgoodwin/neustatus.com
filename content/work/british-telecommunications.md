@@ -5,7 +5,7 @@ draft: false
 weight: 5
 heroHeading: 'British Telecommunications, plc'
 heroSubHeading: 'Head of Management Consultancy Unit'
-heroBackground: 'https://placehold.it/1600x400'
+heroBackground: 'images/170602-G-XX000-072.jpeg'
 thumbnail: 'images/bt.png'
 images: ['images/14597682780_ce5f7ae4c9_b.jpg','images/14597682780_ce5f7ae4c9_b.jpg']
 ---

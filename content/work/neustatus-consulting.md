@@ -5,7 +5,7 @@ draft: false
 weight: 1
 heroHeading: 'Neustatus Consulting'
 heroSubHeading: 'Principal and Founding Director.'
-heroBackground: 'https://placehold.it/1600x400'
+heroBackground: 'images/170602-G-XX000-072.jpeg'
 thumbnail: 'images/neustatus_thumb.png'
 images: ['images/14597682780_ce5f7ae4c9_b.jpg','images/14597682780_ce5f7ae4c9_b.jpg']
 ---

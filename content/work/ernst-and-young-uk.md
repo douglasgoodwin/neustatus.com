@@ -5,7 +5,7 @@ draft: false
 weight: 6
 heroHeading: 'Ernst & Young (UK)'
 heroSubHeading: 'Internal Organisational Development (OD) Consultant'
-heroBackground: 'https://placehold.it/1600x400'
+heroBackground: 'images/170602-G-XX000-072.jpeg'
 thumbnail: 'images/ey_uk.png'
 images: ['images/14597682780_ce5f7ae4c9_b.jpg','images/14597682780_ce5f7ae4c9_b.jpg']
 ---
