@@ -19,13 +19,6 @@ theme = "hugo-hero-theme"
 		meta_og_image = "https://picsum.photos/640/360"
 		meta_og_description = "Enabling clients to achieve their aims through effective diagnosis and focused individual, team and organization-wide interventions."
 
-	[footer]
-		# Sets RSS icons to appear on the sidebar with the social media buttons
-		rssFooter           = false
-		# Sets Social Media icons to appear on the sidebar
-		socialFooter        = true
-
-
 [[menu.main]]
 	name = "Services"
 	url = "/services/"

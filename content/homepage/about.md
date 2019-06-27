@@ -1,7 +1,7 @@
 ---
 title: 'Associates'
 weight: 2
-background: ''
+background: 'images/kevin-bhagat-461952-unsplash.jpg'
 button: 'About Neustatus'
 buttonLink: 'about'
 ---
