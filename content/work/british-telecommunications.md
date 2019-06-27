@@ -6,7 +6,7 @@ weight: 5
 heroHeading: 'British Telecommunications, plc'
 heroSubHeading: 'Head of Management Consultancy Unit'
 heroBackground: 'https://placehold.it/1600x400'
-thumbnail: 'https://placehold.it/600x400'
+thumbnail: 'images/bt.png'
 images: ['https://placebear.com/600/400','https://baconmockup.com/600/400','https://placebear.com/600/400','https://placekitten.com/600/400']
 ---
 

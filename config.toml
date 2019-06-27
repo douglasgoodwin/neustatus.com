@@ -3,20 +3,28 @@
 # baseURL = "https://www.neustatus.com/"
 baseurl = "https://cocky-kirch-513d3c.netlify.com/"
 languageCode = "en-us"
-title = "Neustadtus Consulting"
+title = "Neustatus Consulting"
 themesDir = "themes"
 theme = "hugo-hero-theme"
+
 
 [params]
   google_analytics_id=""
 
-  [params.homepage_meta_tags]
-    meta_description = "Beth Neustadt, MBA, PhD"
-    meta_og_title = "Principal and Founding Director"
-    meta_og_type = "website"
-    meta_og_url = "https://hugo-hero.netlify.com"
-    meta_og_image = "https://picsum.photos/640/360"
-    meta_og_description = "Enabling clients to achieve their aims through effective diagnosis and focused individual, team and organization-wide interventions."
+	[params.homepage_meta_tags]
+		meta_description = "Beth Neustadt, MBA, PhD"
+		meta_og_title = "Principal and Founding Director"
+		meta_og_type = "website"
+		meta_og_url = "https://cocky-kirch-513d3c.netlify.com/"
+		meta_og_image = "https://picsum.photos/640/360"
+		meta_og_description = "Enabling clients to achieve their aims through effective diagnosis and focused individual, team and organization-wide interventions."
+
+	[footer]
+		# Sets RSS icons to appear on the sidebar with the social media buttons
+		rssFooter           = false
+		# Sets Social Media icons to appear on the sidebar
+		socialFooter        = true
+
 
 [[menu.main]]
 	name = "Services"
@@ -41,3 +49,11 @@ theme = "hugo-hero-theme"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+
+  
+# Sets Social Media icons to appear and link to your account. Value should be your
+# username unless otherwise noted. These are the icons affected by socialAppearAtTop
+# and socialAppearAtBottom.
+[social]
+  # Coding Communities
+  github                = "douglasgoodwin/neustatus.com"

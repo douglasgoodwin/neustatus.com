@@ -5574,7 +5574,7 @@ ol {
   @media (min-width: 576px) {
     .logo {
       display: block;
-      width: 120px; } }
+      width: 220px; } }
   .logo img {
     width: 100%;
     height: auto; }
@@ -6166,5 +6166,12 @@ ul.social {
   /* Masonry bricks or child elements */
   background-color: #eee;
   margin: 0 0 1em; }
+
+.inline-svg {
+  display: inline-block;
+  height: 1.15rem;
+  width: 1.15rem;
+  top: 0.15rem;
+  position: relative; }
 
 /*# sourceMappingURL=style.css.map */

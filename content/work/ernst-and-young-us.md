@@ -6,7 +6,7 @@ weight: 5
 heroHeading: 'Ernst & Young (US)'
 heroSubHeading: 'Leadership Consultant, Global Leadership Institute'
 heroBackground: 'https://placehold.it/1600x400'
-thumbnail: 'https://placehold.it/600x400'
+thumbnail: 'images/ernstyoungus.png'
 images: ['https://placebear.com/600/400','https://baconmockup.com/600/400','https://placebear.com/600/400','https://placekitten.com/600/400']
 ---
 
