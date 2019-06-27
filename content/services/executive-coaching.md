@@ -7,7 +7,7 @@ featured: true
 weight: 1
 heroHeading: 'Executive Coaching'
 heroSubHeading: 'We offer coaching on hourly rate or fixed fee'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/14597682780_ce5f7ae4c9_b.jpg'
 ---
 
 Selected as coach by newly appointed COO within a regulatory agency with the explicit aim of catalyzing his learning and development to enable his further advancement; one year later, he was appointed to the role of Chief Executive.

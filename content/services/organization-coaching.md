@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'Organization Consulting'
 heroSubHeading: 'Sometimes your organization needs help'
-heroBackground: 'services/service1.jpg'
+heroBackground: 'images/14597682780_ce5f7ae4c9_b.jpg'
 ---
 
 

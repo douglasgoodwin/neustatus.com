@@ -7,7 +7,7 @@ heroHeading: 'Ernst & Young (US)'
 heroSubHeading: 'Leadership Consultant, Global Leadership Institute'
 heroBackground: 'https://placehold.it/1600x400'
 thumbnail: 'images/ernstyoungus.png'
-images: ['https://placebear.com/600/400','https://baconmockup.com/600/400','https://placebear.com/600/400','https://placekitten.com/600/400']
+images: ['images/14597682780_ce5f7ae4c9_b.jpg','images/14597682780_ce5f7ae4c9_b.jpg']
 ---
 
 Temporarily relocated to the US to support this internal start-up. Engaged in design, delivery and project management of Leadership Development programs; consulted on Partners’ use of personal coaches; piloted 360-degree feedback with the NE International Tax Practice.

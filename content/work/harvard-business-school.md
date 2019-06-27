@@ -7,7 +7,7 @@ heroHeading: 'Harvard Business School'
 heroSubHeading: 'Director, Custom Programs.'
 heroBackground: 'https://placehold.it/1600x400'
 thumbnail: 'images/hbs.png'
-images: ['https://placebear.com/600/400','https://baconmockup.com/600/400','https://placebear.com/600/400','https://placekitten.com/600/400']
+images: ['images/14597682780_ce5f7ae4c9_b.jpg','images/14597682780_ce5f7ae4c9_b.jpg']
 ---
 
 Returned to the US for this role. Manage a wide-ranging international portfolio of executive education client relationships; engage in business development; collaborate with HBS faculty on program design; oversee program delivery on campus and in HBS classrooms in Mumbai and Shanghai.

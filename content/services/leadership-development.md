@@ -6,7 +6,7 @@ featured: true
 draft: false
 heroHeading: 'Leadership Development'
 heroSubHeading: 'Expert advice and guidance when you need it most.'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/14597682780_ce5f7ae4c9_b.jpg'
 ---
 
 

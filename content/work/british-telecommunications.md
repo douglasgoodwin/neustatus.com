@@ -7,7 +7,7 @@ heroHeading: 'British Telecommunications, plc'
 heroSubHeading: 'Head of Management Consultancy Unit'
 heroBackground: 'https://placehold.it/1600x400'
 thumbnail: 'images/bt.png'
-images: ['https://placebear.com/600/400','https://baconmockup.com/600/400','https://placebear.com/600/400','https://placekitten.com/600/400']
+images: ['images/14597682780_ce5f7ae4c9_b.jpg','images/14597682780_ce5f7ae4c9_b.jpg']
 ---
 
 Recruited to turn around or close down this internal training unit.  Repositioned the unit as a high-level OD consulting team, working with senior BT managers and their staff to bring about planned change in alignment with overall business strategy.  Inherited 19 professionals and 7 support staff; restructured and rationalized into a team of 12 consultants and 3 support staff, working under contracts with the Group Managing Director, MDs and Directors across the business.  Concurrent with management responsibilities, delivered against a 50% personal consulting target; this included extensive involvement in design, delivery and evaluation of a corporate-wide change program in which over 30,000 managers participated. 

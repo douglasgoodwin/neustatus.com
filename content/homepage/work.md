@@ -1,7 +1,7 @@
 ---
 title: 'Individual & organization development'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
+background: 'images/170602-G-XX000-072.jpeg'
 button: 'What we do'
 buttonLink: 'work'
 ---
