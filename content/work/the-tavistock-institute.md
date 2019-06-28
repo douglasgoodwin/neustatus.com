@@ -6,7 +6,7 @@ weight: 3
 heroHeading: 'The Tavistock Institute'
 heroSubHeading: 'Head of Consultancy Development'
 heroBackground: 'images/170602-G-XX000-072.jpeg'
-thumbnail: 'images/tavistockinstitute.png'
+thumbnail: 'images/ti.png'
 images: ['images/14597682780_ce5f7ae4c9_b.jpg','images/14597682780_ce5f7ae4c9_b.jpg']
 ---
 

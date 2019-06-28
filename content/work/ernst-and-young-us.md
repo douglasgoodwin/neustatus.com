@@ -6,7 +6,7 @@ weight: 5
 heroHeading: 'Ernst & Young (US)'
 heroSubHeading: 'Leadership Consultant, Global Leadership Institute'
 heroBackground: 'images/170602-G-XX000-072.jpeg'
-thumbnail: 'images/ernstyoungus.png'
+thumbnail: 'images/ey_us.png'
 images: ['images/14597682780_ce5f7ae4c9_b.jpg','images/14597682780_ce5f7ae4c9_b.jpg']
 ---
 

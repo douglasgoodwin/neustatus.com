@@ -6,7 +6,7 @@ weight: 1
 heroHeading: 'Neustatus Consulting'
 heroSubHeading: 'Principal and Founding Director.'
 heroBackground: 'images/170602-G-XX000-072.jpeg'
-thumbnail: 'images/neustatus_thumb.png'
+thumbnail: 'images/nc.png'
 images: ['images/14597682780_ce5f7ae4c9_b.jpg','images/14597682780_ce5f7ae4c9_b.jpg']
 ---
 
