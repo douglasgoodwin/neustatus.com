@@ -13,7 +13,7 @@
   --white: #ffffff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #1c3ed3;
+  --primary: #5466b8;
   --secondary: #43454d;
   --success: #28a745;
   --info: #17a2b8;
@@ -132,12 +132,12 @@ sup {
   top: -.5em; }
 
 a {
-  color: #1c3ed3;
+  color: #5466b8;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects; }
   a:hover {
-    color: #6a82eb;
+    color: #9ca6d6;
     text-decoration: underline; }
 
 a:not([href]):not([tabindex]) {
@@ -1013,13 +1013,13 @@ mark,
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #bfc9f3; }
+  background-color: #cfd4eb; }
 
 .table-hover .table-primary:hover {
-  background-color: #aab7ef; }
+  background-color: #bdc4e4; }
   .table-hover .table-primary:hover > td,
   .table-hover .table-primary:hover > th {
-    background-color: #aab7ef; }
+    background-color: #bdc4e4; }
 
 .table-secondary,
 .table-secondary > th,
@@ -1201,12 +1201,12 @@ mark,
   vertical-align: text-top !important; }
 
 .bg-primary {
-  background-color: #1c3ed3 !important; }
+  background-color: #5466b8 !important; }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #1631a6 !important; }
+  background-color: #405099 !important; }
 
 .bg-secondary {
   background-color: #43454d !important; }
@@ -1301,7 +1301,7 @@ button.bg-dark:focus {
   border-left: 0 !important; }
 
 .border-primary {
-  border-color: #1c3ed3 !important; }
+  border-color: #5466b8 !important; }
 
 .border-secondary {
   border-color: #43454d !important; }
@@ -5281,10 +5281,10 @@ button.bg-dark:focus {
   color: #fff !important; }
 
 .text-primary {
-  color: #1c3ed3 !important; }
+  color: #5466b8 !important; }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #1631a6 !important; }
+  color: #405099 !important; }
 
 .text-secondary {
   color: #43454d !important; }
@@ -5387,7 +5387,7 @@ a.text-dark:hover, a.text-dark:focus {
   .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after {
     width: 32px;
     height: 3px;
-    background-color: #1c3ed3;
+    background-color: #5466b8;
     border-radius: 3px;
     position: absolute;
     transition-property: transform;
@@ -5436,7 +5436,7 @@ ol {
     flex: 1; }
 
 .header {
-  color: #1c3ed3;
+  color: #5466b8;
   background-color: #ffffff;
   display: flex;
   justify-content: space-between;
@@ -5616,24 +5616,24 @@ ol {
         font-weight: regular;
         text-transform: uppercase;
         text-decoration: none;
-        color: #1c3ed3; }
+        color: #5466b8; }
         .main-menu > ul > li > a:hover {
-          background: #1c3ed3;
+          background: #5466b8;
           color: #ffffff;
           text-decoration: none; }
       .main-menu > ul > li.active > a {
-        background: #1c3ed3;
+        background: #5466b8;
         text-decoration: none;
         color: #ffffff; }
         .main-menu > ul > li.active > a:hover {
           text-decoration: none;
-          background: #1c3ed3;
+          background: #5466b8;
           transition: all 225ms ease-in 0s;
           color: #ffffff; }
 
 .main-menu-mobile {
   position: fixed;
-  background: #1c3ed3;
+  background: #5466b8;
   top: 0;
   left: 0;
   width: 100%;
@@ -5747,7 +5747,7 @@ ul.social {
   .hamburger .hamburger-inner,
   .hamburger .hamburger-inner::before,
   .hamburger .hamburger-inner::after {
-    background: #1c3ed3; }
+    background: #5466b8; }
   .hamburger .hamburger-inner::after {
     width: 18px;
     right: 0; }
@@ -5759,7 +5759,7 @@ ul.social {
   white-space: nowrap;
   display: inline-block;
   padding: 7px 15px;
-  background: #1c3ed3;
+  background: #5466b8;
   font-size: 15px;
   font-weight: 600;
   text-transform: uppercase;
@@ -5770,7 +5770,7 @@ ul.social {
   transition: all 0.15s ease; }
   .button:hover {
     color: #fff;
-    background-color: #3d5ce5;
+    background-color: #7886c7;
     text-decoration: none; }
 
 .button-white {
@@ -5779,7 +5779,7 @@ ul.social {
   border: 2px solid #fff; }
 
 .title-1 {
-  color: #1c3ed3;
+  color: #5466b8;
   font-size: 2.4rem;
   line-height: 1.2;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system; }
@@ -5851,7 +5851,7 @@ ul.social {
       line-height: 1.4; } }
 
 .content h3 {
-  color: #1c3ed3;
+  color: #5466b8;
   line-height: 1.4;
   font-weight: 200;
   letter-spacing: 1px; }
@@ -5880,7 +5880,7 @@ ul.social {
       padding-top: 200px;
       padding-bottom: 100px; } }
   .intro h1 {
-    color: #1c3ed3;
+    color: #5466b8;
     font-size: 2.4rem;
     line-height: 1.2;
     font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
@@ -5936,13 +5936,13 @@ ul.social {
     transform: skewY(-5deg); }
 
 .strip-primary-gradient {
-  background-image: linear-gradient(to right, #1c3ed3, #43454d); }
+  background-image: linear-gradient(to right, #5466b8, #43454d); }
 
 .strip-primary-gradient-top-bottom {
-  background-image: linear-gradient(to bottom, #1c3ed3, #43454d); }
+  background-image: linear-gradient(to bottom, #5466b8, #43454d); }
 
 .strip-primary {
-  background-color: #1c3ed3; }
+  background-color: #5466b8; }
 
 .strip-secondary {
   background-color: #43454d; }
@@ -6007,14 +6007,14 @@ ul.social {
         font-size: 0.8rem;
         font-weight: 700; }
       .feature .feature-content p em {
-        color: #1c3ed3;
+        color: #5466b8;
         font-style: normal; }
 
 .hero-image {
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: overlay;
-  background-color: #1c3ed3;
+  background-color: #5466b8;
   height: 400px;
   position: relative;
   padding-top: 60px; }
@@ -6085,7 +6085,7 @@ ul.social {
   background-blend-mode: overlay; }
 
 .bg-primary {
-  background-color: #1c3ed3; }
+  background-color: #5466b8; }
 
 .bg-secondary {
   background-color: #43454d; }
@@ -6134,7 +6134,7 @@ ul.social {
   .work-summary .work-content {
     flex: 1;
     padding: 20px;
-    border-bottom: 2px solid #1c3ed3; }
+    border-bottom: 2px solid #5466b8; }
     .work-summary .work-content .work-title {
       font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
       font-size: 1.5rem; }
@@ -6145,7 +6145,7 @@ ul.social {
 .page-work-single h1.title {
   font-size: 3rem;
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif, -apple-system;
-  color: #1c3ed3; }
+  color: #5466b8; }
 
 .page-work-single .work-image img {
   width: 100%;
